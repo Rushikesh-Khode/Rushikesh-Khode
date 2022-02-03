@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on opensource project
-- 📫 you can reach me at rushikeshkhode1990@gmail.com
+- 📫 You can reach me at rushikeshkhode1990@gmail.com
 
 
 <!---
