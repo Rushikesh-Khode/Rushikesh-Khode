@@ -28,8 +28,6 @@
 
 ### 📫 Let's Connect!  
 - ✉️ Email: [rushikeshkhode1990@gmail.com](mailto:rushikeshkhode1990@gmail.com)  
-- 🌐 GitHub: [Rushikesh-Khode](https://github.com/Rushikesh-Khode)  
-
 ---
 
 > 💬 "Keep learning, keep building, and keep innovating!"  
